@@ -1,0 +1,6 @@
+.column-list {
+  display: flex;
+  margin: auto;
+  max-width: 1080px;
+  height: auto;
+}
